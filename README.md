@@ -27,10 +27,10 @@ I created a simple static website using HTML and CSS. The website contains a wel
 8. Verified the live website deployment.
 
 ## Live Website
-
+https://sidraah.github.io/github-pages-project/
 
 ## GitHub Repository
-
+https://github.com/sidraah/github-pages-project.git
 
 ## Outcome
 Successfully hosted a static website using GitHub Pages and learned how to deploy and update web content for free.
